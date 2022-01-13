@@ -1,0 +1,23 @@
+{
+  "name": "todo-app-server",
+  "version": "1.0.0",
+  "description": "Hosting json server on github using My JSON Server",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hatem0656/Todo-App-Server.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hatem0656/Todo-App-Server/issues"
+  },
+  "homepage": "https://github.com/hatem0656/Todo-App-Server#readme",
+  "dependencies": {
+    "json-server": "^0.17.0"
+  }
+}
